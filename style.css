@@ -1,0 +1,60 @@
+body {
+  background-color: #380559;
+  position: relative;
+  height: 100vh;
+  margin: 0;
+}
+
+h1 {
+  text-align: center;
+  font-family: "Lemon", serif;
+  position: absolute;
+  color: white;
+  font-size: 166px;
+  top: 10%;
+  left: 50%;
+  transform: translateX(-50%);
+  margin-bottom: 100px;
+  margin-bottom: 100px;
+}
+
+.Bravery{
+  position: absolute;
+  top:59%;
+  left:33.6%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+  border-left: 400px solid red;
+  border-bottom: 400px solid transparent;
+  border-top: 400px solid transparent;
+}
+
+.Sacrifice{
+  position: absolute;
+  top:calc(50% - 175px);
+  left:50%;
+  transform: translate(-50%);
+  background-color: black;
+  width: 2000px;
+  height: 250px;
+}
+
+.Justice{
+  position: absolute;
+  top:calc(50% + 75px);
+  left:50%;
+  transform: translate(-50%);
+  background-color: white;
+  width: 2000px;
+  height: 250px;
+}
+
+.Honor{
+  position: absolute;
+  top:calc(50% + 325px);
+  left:50%;
+  transform: translate(-50%);
+  background-color: green;
+  width: 2000px;
+  height: 250px;
+}
