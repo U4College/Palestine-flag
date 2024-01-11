@@ -4,7 +4,8 @@ This repository contains a simple HTML and CSS code to represent a symbolic inte
 
 ## Preview
 
-![Palestine Flag Representation](preview.png)
+![Palestine Flag Representation](https://github.com/U4College/Palestine-flag/blob/main/preview.png.png)
+
 
 ## Features
 
